@@ -1,0 +1,18 @@
+# Build artifacts
+minishell
+*.o
+*.a
+
+# Debugging / profiling
+*.dSYM/
+*.out
+vgcore.*
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
